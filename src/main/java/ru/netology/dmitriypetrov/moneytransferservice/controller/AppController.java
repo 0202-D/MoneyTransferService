@@ -1,28 +1,30 @@
 package ru.netology.dmitriypetrov.moneytransferservice.controller;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
-import ru.netology.dmitriypetrov.moneytransferservice.dto.RequestDto;
+import ru.netology.dmitriypetrov.moneytransferservice.dto.OperationRequestDto;
+import ru.netology.dmitriypetrov.moneytransferservice.dto.RequestVerifyDto;
 import ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto;
-import ru.netology.dmitriypetrov.moneytransferservice.service.AppService;
+import ru.netology.dmitriypetrov.moneytransferservice.service.AppServiceImpl;
 
 @RestController
 @RequestMapping("/")
 public class AppController {
-    @Autowired
-    AppService appService;
+    private AppServiceImpl appService;
+
+    public AppController(AppServiceImpl appService) {
+        this.appService = appService;
+    }
 
     @PostMapping("/transfer")
-    public ResponseDto transfer(@RequestBody RequestDto requestDto) {
-        System.out.println(requestDto);
-        ResponseDto responseDto= appService.transfer();
-        System.out.println(responseDto);
-        return responseDto;
+    public ResponseDto transfer(@RequestBody @Valid OperationRequestDto operationRequestDto) {
+        return appService.transfer(operationRequestDto);
+
 
     }
 
     @PostMapping("/confirmOperation")
-    public ResponseDto confirmOperation() {
-        return null;
+    public ResponseDto confirmOperation(@RequestBody @Valid RequestVerifyDto dto) {
+        return appService.confirmOperation(dto);
     }
 }

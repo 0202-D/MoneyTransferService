@@ -12,7 +12,7 @@ import ru.netology.dmitriypetrov.moneytransferservice.model.Amount;
 @Getter
 @Setter
 @ToString
-public class RequestDto {
+public class OperationRequestDto {
     @NotNull(message = "Необходимо ввести номер карты")
     @Size(min = 16, message = "Номер карты должен состоять из 16-и символов")
     private String cardFromNumber;
