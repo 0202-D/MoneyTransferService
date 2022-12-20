@@ -25,48 +25,35 @@ public class AppServiceImpl implements AppService {
         this.verificationCodeDao = verificationCodeDao;
         this.responseDto = responseDto;
     }
+
     public ResponseDto transfer(OperationRequestDto operationRequestDto) {
         operationId.addAndGet(1);
         responseDto.setOperationId(operationId.toString());
-        String verifyCode = generateCode();
-        verificationCodeDao.getVerificationDao().put(operationId.toString(), verifyCode);
-        verificationCodeDao.getOperationInformation().put(operationId.toString(), operationRequestDto);
+        verificationCodeDao.save(operationId.toString(), operationRequestDto);
         return responseDto;
     }
 
     public ResponseDto confirmOperation(RequestVerifyDto dto) {
         String id = dto.getOperationId();
-        if (!verificationCodeDao.getVerificationDao().containsKey(id)) {
+        if (!verificationCodeDao.getOperationInformation().containsKey(id)) {
             throw new ErrorInputException("No such operation with this id");
         }
         // имитация проверки кода верификации с дефолтным значением
-        if(dto.getCode().equals("0000")){
-            confirmOperationId.addAndGet(1);
-            responseDto.setOperationId(confirmOperationId.toString());
-            verificationCodeDao.getVerificationDao().remove(id);
-            LOGGER.info("Transaction from"+" "+verificationCodeDao.getOperationInformation().get(id).getCardFromNumber()
-                    +" "+"to"+" "+verificationCodeDao.getOperationInformation().get(id).getCardToNumber()+" "
-                    +"amount"+" "+verificationCodeDao.getOperationInformation().get(id).getAmount().getValue()+" "+"succeed");
-            return responseDto;
-        }
-        // Код проверки кода верификации (тестировать с помощью postman)
-        String code = dto.getCode();
-        if (!verificationCodeDao.getVerificationDao().get(id).equals(code)) {
-            throw new ErrorTransferException("Bad verification code");
+        if (!dto.getCode().equals("0000")) {
+            throw new ErrorTransferException("Wrong verify code");
         }
         confirmOperationId.addAndGet(1);
         responseDto.setOperationId(confirmOperationId.toString());
-        verificationCodeDao.getVerificationDao().remove(id);
-        LOGGER.info("Transaction from"+" "+verificationCodeDao.getOperationInformation().get(id).getCardFromNumber()
-        +" "+"to"+" "+verificationCodeDao.getOperationInformation().get(id).getCardToNumber()+" "
-        +"amount"+" "+verificationCodeDao.getOperationInformation().get(id).getAmount().getValue()+" "+"succeed");
-
+        LOGGER.info("Transaction from" + " " + verificationCodeDao.getOperationInformation().get(id).getCardFromNumber()
+                + " " + "to" + " " + verificationCodeDao.getOperationInformation().get(id).getCardToNumber() + " "
+                + "amount" + " " + totalAmount(verificationCodeDao.getOperationInformation().get(id).getAmount().getValue()) + " "
+                + verificationCodeDao.getOperationInformation().get(id).getAmount().getCurrency() + " " + "succeed");
+        verificationCodeDao.getOperationInformation().remove(id);
         return responseDto;
     }
 
-    public String generateCode() {
-        Random rand = new Random();
-        int randomNum = rand.nextInt((1000000 - 35) + 1) + 75;
-        return Integer.toString(randomNum);
+    public double totalAmount(int sum) {
+        return (sum - (double) sum / 100) / 100;
     }
+
 }

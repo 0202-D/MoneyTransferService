@@ -1,8 +1,8 @@
-version: '3.0'
+version: '3.8'
 services:
   app:
     container_name: myapp
     build: ./
     image: myapp:latest
     ports:
-      - "5500:5050"
+      - "5500:5500"
