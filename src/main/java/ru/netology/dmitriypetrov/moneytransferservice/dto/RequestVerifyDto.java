@@ -12,11 +12,11 @@ import org.springframework.stereotype.Component;
 @AllArgsConstructor
 @ToString
 public class RequestVerifyDto {
-    //@NotNull(message = "Поле 'operationID' не должно быть null")
-   // @NotBlank(message = "Поле 'operationID' не должно быть пустым")
+    @NotNull(message = "Поле 'operationID' не должно быть null")
+    @NotBlank(message = "Поле 'operationID' не должно быть пустым")
     private String operationId;
-  //  @NotNull(message = "Поле 'code' не должно быть null")
-    //@NotBlank(message = "Поле 'code' не должно быть пустым")
+    @NotNull(message = "Поле 'code' не должно быть null")
+    @NotBlank(message = "Поле 'code' не должно быть пустым")
     private String code;
 
 }

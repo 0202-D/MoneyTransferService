@@ -10,7 +10,6 @@ import ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto;
 import ru.netology.dmitriypetrov.moneytransferservice.exception.ErrorInputException;
 import ru.netology.dmitriypetrov.moneytransferservice.exception.ErrorTransferException;
 
-import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
 
 @Service

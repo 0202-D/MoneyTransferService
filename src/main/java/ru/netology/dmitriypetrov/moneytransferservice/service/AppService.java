@@ -6,5 +6,5 @@ import ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto;
 
 public interface AppService {
     ResponseDto transfer(OperationRequestDto operationRequestDto);
-    public ResponseDto confirmOperation(RequestVerifyDto dto);
+     ResponseDto confirmOperation(RequestVerifyDto dto);
 }

@@ -5,9 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 import org.springframework.stereotype.Component;
 import ru.netology.dmitriypetrov.moneytransferservice.dto.OperationRequestDto;
-import ru.netology.dmitriypetrov.moneytransferservice.model.Amount;
 
-import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.Map;
 

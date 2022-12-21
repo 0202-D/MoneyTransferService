@@ -2,11 +2,6 @@ package ru.netology.dmitriypetrov.moneytransferservice;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
-import org.mockito.Mockito;
-import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
@@ -14,19 +9,13 @@ import org.springframework.http.ResponseEntity;
 import org.testcontainers.containers.GenericContainer;
 import org.testcontainers.junit.jupiter.Container;
 import org.testcontainers.junit.jupiter.Testcontainers;
-import ru.netology.dmitriypetrov.moneytransferservice.dao.VerificationCodeDao;
 import ru.netology.dmitriypetrov.moneytransferservice.dto.OperationRequestDto;
 import ru.netology.dmitriypetrov.moneytransferservice.dto.RequestVerifyDto;
-import ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto;
-import ru.netology.dmitriypetrov.moneytransferservice.exception.ErrorInputException;
 import ru.netology.dmitriypetrov.moneytransferservice.model.Amount;
-import ru.netology.dmitriypetrov.moneytransferservice.service.AppServiceImpl;
-
-import static org.mockito.Mockito.when;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @Testcontainers
-class MoneyTransferServiceApplicationTests {
+class MoneyTransferServiceContainerTests {
     private final static int PORT = 5500;
 
     @Autowired

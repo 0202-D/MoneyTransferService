@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 @Setter
 @Getter
 @ToString
+@EqualsAndHashCode
 public class ResponseDto {
     private String operationId;
 }

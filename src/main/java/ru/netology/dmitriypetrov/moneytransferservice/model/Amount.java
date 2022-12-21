@@ -3,7 +3,6 @@ package ru.netology.dmitriypetrov.moneytransferservice.model;
 import lombok.*;
 import org.springframework.stereotype.Component;
 
-import java.math.BigDecimal;
 
 @Component
 @AllArgsConstructor
