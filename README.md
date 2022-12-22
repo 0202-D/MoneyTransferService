@@ -27,6 +27,7 @@ POST request --> http://localhost:5500/transfer
 {
 
 "value": 100000,
+
 "currency": "RUB"
 
 }
