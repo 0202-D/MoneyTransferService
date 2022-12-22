@@ -13,6 +13,9 @@
 
 POST request --> http://localhost:5500/transfer
 
+```json
+
+
 {
 
 "cardFromNumber": "1111111111111111",
@@ -33,17 +36,21 @@ POST request --> http://localhost:5500/transfer
 }
 
 }
+```   
 
 response --> 200 OK
+```json
 
 {
 
 "operationId": "1"
 
 }
+```  
 
 response --> 400 and 500
 
+```json
 {
 
 "message": "string",
@@ -51,11 +58,12 @@ response --> 400 and 500
 "id": 1
 
 }
+```
 
 *******************************************************
 
 POST request --> http://localhost:5500/confirmOperation
-
+```json
 
 {
 
@@ -63,16 +71,20 @@ POST request --> http://localhost:5500/confirmOperation
 "code": "0000"
 
 }
+```
 
 response --> 200 OK
+```json
 
 {
 
 "operationId": "1"
 
 }
+```
 
 response --> 400 and 500
+```json
 
 {
 
@@ -81,6 +93,7 @@ response --> 400 and 500
 "id": 1
 
 }
+```
 
 ## Описание проекта 
 
