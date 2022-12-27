@@ -6,18 +6,17 @@ import lombok.Setter;
 import org.springframework.stereotype.Component;
 import ru.netology.dmitriypetrov.moneytransferservice.dto.OperationRequestDto;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 @Component
 @Getter
 @Setter
 @AllArgsConstructor
 public class VerificationCodeDao {
-    private Map <String, OperationRequestDto> operationInformation;
+    private ConcurrentHashMap <String, OperationRequestDto> operationInformation;
 
     public VerificationCodeDao() {
-        operationInformation = new HashMap<>();
+        operationInformation = new ConcurrentHashMap<>();
     }
 
     public void save (String id,OperationRequestDto value){

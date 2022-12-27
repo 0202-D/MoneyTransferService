@@ -20,14 +20,13 @@ public class AppServiceImpl implements AppService {
     private AtomicInteger operationId = new AtomicInteger(0);
     private AtomicInteger confirmOperationId = new AtomicInteger(0);
 
-    public AppServiceImpl(VerificationCodeDao verificationCodeDao, ResponseDto responseDto) {
+    public AppServiceImpl(VerificationCodeDao verificationCodeDao) {
         this.verificationCodeDao = verificationCodeDao;
-        this.responseDto = responseDto;
     }
 
     public ResponseDto transfer(OperationRequestDto operationRequestDto) {
         operationId.addAndGet(1);
-        responseDto.setOperationId(operationId.toString());
+        ResponseDto responseDto = ResponseDto.builder().operationId(operationId.toString()).build();
         verificationCodeDao.save(operationId.toString(), operationRequestDto);
         return responseDto;
     }
@@ -42,7 +41,7 @@ public class AppServiceImpl implements AppService {
             throw new ErrorTransferException("Wrong verify code");
         }
         confirmOperationId.addAndGet(1);
-        responseDto.setOperationId(confirmOperationId.toString());
+        responseDto = ResponseDto.builder().operationId(confirmOperationId.toString()).build();
         LOGGER.info("Transaction from" + " " + verificationCodeDao.getOperationInformation().get(id).getCardFromNumber()
                 + " " + "to" + " " + verificationCodeDao.getOperationInformation().get(id).getCardToNumber() + " "
                 + "amount" + " " + totalAmount(verificationCodeDao.getOperationInformation().get(id).getAmount().getValue()) + " "

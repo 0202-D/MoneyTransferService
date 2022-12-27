@@ -1,169 +1,180 @@
-2022-12-21T20:47:13.285+03:00  INFO 16196 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 16196 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T20:47:13.316+03:00  INFO 16196 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T20:47:17.012+03:00  INFO 16196 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 4.732 seconds (process running for 8.034)
-2022-12-21T20:52:54.257+03:00  INFO 11720 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 11720 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T20:52:54.263+03:00  INFO 11720 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T20:52:58.015+03:00  INFO 11720 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 4.809 seconds (process running for 8.618)
-2022-12-21T20:55:47.724+03:00  INFO 15740 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 15740 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T20:55:47.728+03:00  INFO 15740 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T20:55:51.518+03:00  INFO 15740 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 4.548 seconds (process running for 7.67)
-2022-12-21T20:56:04.979+03:00  INFO 15648 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 15648 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T20:56:04.984+03:00  INFO 15648 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T20:56:08.252+03:00  INFO 15648 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 3.994 seconds (process running for 7.167)
-2022-12-21T20:56:42.588+03:00  INFO 13116 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 13116 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T20:56:42.592+03:00  INFO 13116 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T20:56:46.264+03:00  INFO 13116 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 4.569 seconds (process running for 7.793)
-2022-12-21T20:57:16.817+03:00  INFO 5724 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 5724 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T20:57:16.823+03:00  INFO 5724 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T20:57:20.362+03:00  INFO 5724 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 4.423 seconds (process running for 7.658)
-2022-12-21T21:01:01.921+03:00  INFO 3892 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 3892 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:01:01.924+03:00  INFO 3892 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:01:04.064+03:00  INFO 3892 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.645 seconds (process running for 4.772)
-2022-12-21T21:01:50.335+03:00  INFO 9484 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 9484 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:01:50.338+03:00  INFO 9484 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:01:52.211+03:00  INFO 9484 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.315 seconds (process running for 4.213)
-2022-12-21T21:03:18.936+03:00  INFO 11060 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 11060 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:03:18.939+03:00  INFO 11060 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:03:21.044+03:00  INFO 11060 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.617 seconds (process running for 4.885)
-2022-12-21T21:04:05.366+03:00  INFO 11056 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 11056 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:04:05.370+03:00  INFO 11056 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:04:08.299+03:00  INFO 11056 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 3.818 seconds (process running for 6.637)
-2022-12-21T21:07:12.039+03:00  INFO 14736 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 14736 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:07:12.042+03:00  INFO 14736 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:07:14.209+03:00  INFO 14736 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.681 seconds (process running for 4.714)
-2022-12-21T21:07:54.503+03:00  INFO 2848 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 2848 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:07:54.507+03:00  INFO 2848 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:07:56.688+03:00  INFO 2848 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.734 seconds (process running for 5.124)
-2022-12-21T21:14:13.683+03:00  INFO 2528 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 2528 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:14:13.686+03:00  INFO 2528 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:14:15.815+03:00  INFO 2528 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.675 seconds (process running for 5.109)
-2022-12-21T21:16:05.331+03:00  INFO 6404 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 6404 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:16:05.334+03:00  INFO 6404 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:16:07.457+03:00  INFO 6404 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.62 seconds (process running for 4.764)
-2022-12-21T21:16:34.698+03:00  INFO 3892 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 3892 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:16:34.703+03:00  INFO 3892 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:16:37.077+03:00  INFO 3892 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.956 seconds (process running for 5.071)
-2022-12-21T21:18:06.097+03:00  INFO 11952 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 11952 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:18:06.100+03:00  INFO 11952 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:18:08.446+03:00  INFO 11952 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.911 seconds (process running for 5.128)
-2022-12-21T21:18:34.285+03:00  INFO 14504 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 14504 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:18:34.289+03:00  INFO 14504 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:18:36.642+03:00  INFO 14504 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.9 seconds (process running for 5.123)
-2022-12-21T21:19:41.758+03:00  INFO 7456 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 7456 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:19:41.762+03:00  INFO 7456 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:19:44.087+03:00  INFO 7456 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.871 seconds (process running for 5.228)
-2022-12-21T21:20:17.711+03:00  INFO 10304 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 10304 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:20:17.714+03:00  INFO 10304 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:20:20.024+03:00  INFO 10304 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.884 seconds (process running for 5.056)
-2022-12-21T21:21:06.736+03:00  INFO 14396 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 14396 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:21:06.738+03:00  INFO 14396 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:21:09.408+03:00  INFO 14396 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 3.332 seconds (process running for 5.488)
-2022-12-21T21:21:47.661+03:00  INFO 15688 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 15688 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:21:47.665+03:00  INFO 15688 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:21:50.124+03:00  INFO 15688 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 3.002 seconds (process running for 5.408)
-2022-12-21T21:25:18.579+03:00  INFO 6272 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 6272 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:25:18.582+03:00  INFO 6272 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:25:20.871+03:00  INFO 6272 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.826 seconds (process running for 4.964)
-2022-12-21T21:26:40.291+03:00  INFO 15216 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 15216 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:26:40.294+03:00  INFO 15216 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:26:42.461+03:00  INFO 15216 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.665 seconds (process running for 4.785)
-2022-12-21T21:28:11.908+03:00  INFO 784 --- [main] r.n.d.m.AppServiceImplTest               : Starting AppServiceImplTest using Java 17.0.4 with PID 784 (started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:28:11.911+03:00  INFO 784 --- [main] r.n.d.m.AppServiceImplTest               : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:28:14.229+03:00  INFO 784 --- [main] r.n.d.m.AppServiceImplTest               : Started AppServiceImplTest in 2.86 seconds (process running for 5.012)
-2022-12-21T21:28:15.033+03:00  INFO 784 --- [main] r.n.d.m.service.AppServiceImpl           : Transaction from 111111111111111 to 1212121212345678 amount 99.0 RUB succeed
-2022-12-21T21:30:01.852+03:00  INFO 2704 --- [main] r.n.d.moneytransferservice.AppTest       : Starting AppTest using Java 17.0.4 with PID 2704 (started by ������� in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:30:01.856+03:00  INFO 2704 --- [main] r.n.d.moneytransferservice.AppTest       : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:30:04.602+03:00  INFO 2704 --- [main] r.n.d.moneytransferservice.AppTest       : Started AppTest in 3.314 seconds (process running for 5.662)
-2022-12-21T21:30:05.469+03:00  INFO 2704 --- [main] r.n.d.m.service.AppServiceImpl           : Transaction from 111111111111111 to 1212121212345678 amount 99.0 RUB succeed
-2022-12-21T21:30:05.511+03:00  INFO 2704 --- [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceContainerTests]: MoneyTransferServiceContainerTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2022-12-21T21:30:05.516+03:00  INFO 2704 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceApplication for test class ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceContainerTests
-2022-12-21T21:30:05.759+03:00  INFO 2704 --- [main] o.t.utility.ImageNameSubstitutor         : Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor')
-2022-12-21T21:30:05.814+03:00  INFO 2704 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
-2022-12-21T21:30:05.825+03:00  INFO 2704 --- [main] .t.d.DockerMachineClientProviderStrategy : docker-machine executable was not found on PATH ([C:\windows\system32, C:\Program Files\MySQL\MySQL Shell 8.0\bin\, C:\Users\�������\AppData\Local\Microsoft\WindowsApps, C:\Users\�������\.dotnet\tools, C:\Users\�������\AppData\Local\gitkraken\bin, C:\Users\�������\AppData\Local\Programs\Microsoft VS Code\bin, C:\Users\�������\AppData\Local\JetBrains\Toolbox\scripts])
-2022-12-21T21:30:05.826+03:00 ERROR 2704 --- [main] o.t.d.DockerClientProviderStrategy       : Could not find a valid Docker environment. Please check configuration. Attempted configurations were:
-As no valid configuration was found, execution cannot continue.
-See https://www.testcontainers.org/on_failure.html for more details.
-2022-12-21T21:33:03.347+03:00  INFO 9464 --- [main] r.n.d.moneytransferservice.AppTest       : Starting AppTest using Java 17.0.4 with PID 9464 (started by ������� in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:33:03.352+03:00  INFO 9464 --- [main] r.n.d.moneytransferservice.AppTest       : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:33:05.789+03:00  INFO 9464 --- [main] r.n.d.moneytransferservice.AppTest       : Started AppTest in 3.023 seconds (process running for 5.119)
-2022-12-21T21:33:06.654+03:00  INFO 9464 --- [main] r.n.d.m.service.AppServiceImpl           : Transaction from 111111111111111 to 1212121212345678 amount 99.0 RUB succeed
-2022-12-21T21:33:06.686+03:00  INFO 9464 --- [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceContainerTests]: MoneyTransferServiceContainerTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2022-12-21T21:33:06.690+03:00  INFO 9464 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceApplication for test class ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceContainerTests
-2022-12-21T21:33:06.930+03:00  INFO 9464 --- [main] o.t.utility.ImageNameSubstitutor         : Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor')
-2022-12-21T21:33:06.980+03:00  INFO 9464 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
-2022-12-21T21:33:07.849+03:00  INFO 9464 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
-2022-12-21T21:33:07.852+03:00  INFO 9464 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
-2022-12-21T21:33:07.898+03:00  INFO 9464 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
-  Server Version: 20.10.16
-  API Version: 1.41
-  Operating System: Docker Desktop
-  Total Memory: 4680 MB
-2022-12-21T21:33:07.960+03:00  INFO 9464 --- [main] docker[testcontainers/ryuk:0.3.4]        : Creating container for image: testcontainers/ryuk:0.3.4
-2022-12-21T21:33:08.122+03:00  INFO 9464 --- [main] o.t.utility.RegistryAuthLocator          : Credential helper/store (docker-credential-desktop) does not have credentials for https://index.docker.io/v1/
-2022-12-21T21:33:08.317+03:00  INFO 9464 --- [main] docker[testcontainers/ryuk:0.3.4]        : Container testcontainers/ryuk:0.3.4 is starting: 79e85735cc3caedaf138ace671b5f92ed02920bf42e554dce93f2ffd65f0426e
-2022-12-21T21:33:09.511+03:00  INFO 9464 --- [main] docker[testcontainers/ryuk:0.3.4]        : Container testcontainers/ryuk:0.3.4 started in PT1.5942936S
-2022-12-21T21:33:09.535+03:00  INFO 9464 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
-2022-12-21T21:33:09.536+03:00  INFO 9464 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
-2022-12-21T21:33:09.538+03:00  INFO 9464 --- [main] org.testcontainers.DockerClientFactory   : ?? Docker server version should be at least 1.6.0
-2022-12-21T21:33:09.540+03:00  INFO 9464 --- [main] docker[myapp:latest]                     : Creating container for image: myapp:latest
-2022-12-21T21:33:09.605+03:00  INFO 9464 --- [main] docker[myapp:latest]                     : Container myapp:latest is starting: b2142ea9f53cb79a74eb7311538d1dc8cc1539fa9d7db28b18525ba9543654e6
-2022-12-21T21:33:16.940+03:00  INFO 9464 --- [main] docker[myapp:latest]                     : Container myapp:latest started in PT7.4013725S
-2022-12-21T21:33:17.049+03:00  INFO 9464 --- [main] n.d.m.MoneyTransferServiceContainerTests : Starting MoneyTransferServiceContainerTests using Java 17.0.4 with PID 9464 (started by ������� in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:33:17.050+03:00  INFO 9464 --- [main] n.d.m.MoneyTransferServiceContainerTests : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:33:17.679+03:00  INFO 9464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
-2022-12-21T21:33:17.702+03:00  INFO 9464 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2022-12-21T21:33:17.702+03:00  INFO 9464 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
-2022-12-21T21:33:17.937+03:00  INFO 9464 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2022-12-21T21:33:17.938+03:00  INFO 9464 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 878 ms
-2022-12-21T21:33:18.263+03:00  INFO 9464 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 49796 (http) with context path ''
-2022-12-21T21:33:18.273+03:00  INFO 9464 --- [main] n.d.m.MoneyTransferServiceContainerTests : Started MoneyTransferServiceContainerTests in 1.322 seconds (process running for 17.603)
-2022-12-21T21:36:51.172+03:00  INFO 11628 --- [main] r.n.d.moneytransferservice.AppTest       : Starting AppTest using Java 17.0.4 with PID 11628 (started by ������� in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:36:51.176+03:00  INFO 11628 --- [main] r.n.d.moneytransferservice.AppTest       : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:36:53.696+03:00  INFO 11628 --- [main] r.n.d.moneytransferservice.AppTest       : Started AppTest in 3.055 seconds (process running for 5.267)
-2022-12-21T21:36:54.645+03:00  INFO 11628 --- [main] r.n.d.m.service.AppServiceImpl           : Transaction from 111111111111111 to 1212121212345678 amount 99.0 RUB succeed
-2022-12-21T21:36:54.677+03:00  INFO 11628 --- [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceContainerTests]: MoneyTransferServiceContainerTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2022-12-21T21:36:54.681+03:00  INFO 11628 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceApplication for test class ru.netology.dmitriypetrov.moneytransferservice.MoneyTransferServiceContainerTests
-2022-12-21T21:36:54.932+03:00  INFO 11628 --- [main] o.t.utility.ImageNameSubstitutor         : Image name substitution will be performed by: DefaultImageNameSubstitutor (composite of 'ConfigurationFileImageNameSubstitutor' and 'PrefixingImageNameSubstitutor')
-2022-12-21T21:36:54.986+03:00  INFO 11628 --- [main] o.t.d.DockerClientProviderStrategy       : Loaded org.testcontainers.dockerclient.NpipeSocketClientProviderStrategy from ~/.testcontainers.properties, will try it first
-2022-12-21T21:36:55.909+03:00  INFO 11628 --- [main] o.t.d.DockerClientProviderStrategy       : Found Docker environment with local Npipe socket (npipe:////./pipe/docker_engine)
-2022-12-21T21:36:55.912+03:00  INFO 11628 --- [main] org.testcontainers.DockerClientFactory   : Docker host IP address is localhost
-2022-12-21T21:36:55.953+03:00  INFO 11628 --- [main] org.testcontainers.DockerClientFactory   : Connected to docker: 
-  Server Version: 20.10.16
-  API Version: 1.41
-  Operating System: Docker Desktop
-  Total Memory: 4680 MB
-2022-12-21T21:36:56.000+03:00  INFO 11628 --- [main] docker[testcontainers/ryuk:0.3.4]        : Creating container for image: testcontainers/ryuk:0.3.4
-2022-12-21T21:36:56.120+03:00  INFO 11628 --- [main] o.t.utility.RegistryAuthLocator          : Credential helper/store (docker-credential-desktop) does not have credentials for https://index.docker.io/v1/
-2022-12-21T21:36:56.316+03:00  INFO 11628 --- [main] docker[testcontainers/ryuk:0.3.4]        : Container testcontainers/ryuk:0.3.4 is starting: f5d2e4e27888c11c1a5bad5c51f6f5d5aa375074cf0676642729d999fedca761
-2022-12-21T21:36:57.916+03:00  INFO 11628 --- [main] docker[testcontainers/ryuk:0.3.4]        : Container testcontainers/ryuk:0.3.4 started in PT1.9487799S
-2022-12-21T21:36:57.963+03:00  INFO 11628 --- [main] o.t.utility.RyukResourceReaper           : Ryuk started - will monitor and terminate Testcontainers containers on JVM exit
-2022-12-21T21:36:57.964+03:00  INFO 11628 --- [main] org.testcontainers.DockerClientFactory   : Checking the system...
-2022-12-21T21:36:57.967+03:00  INFO 11628 --- [main] org.testcontainers.DockerClientFactory   : ?? Docker server version should be at least 1.6.0
-2022-12-21T21:36:57.968+03:00  INFO 11628 --- [main] docker[myapp:latest]                     : Creating container for image: myapp:latest
-2022-12-21T21:36:58.076+03:00  INFO 11628 --- [main] docker[myapp:latest]                     : Container myapp:latest is starting: d72e0c3afc0621e2f7661e09532729ff5c52c320cdfae5beba4dc66895096cdd
-2022-12-21T21:37:05.769+03:00  INFO 11628 --- [main] docker[myapp:latest]                     : Container myapp:latest started in PT7.8005846S
-2022-12-21T21:37:05.841+03:00  INFO 11628 --- [main] n.d.m.MoneyTransferServiceContainerTests : Starting MoneyTransferServiceContainerTests using Java 17.0.4 with PID 11628 (started by ������� in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:37:05.842+03:00  INFO 11628 --- [main] n.d.m.MoneyTransferServiceContainerTests : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:37:06.506+03:00  INFO 11628 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
-2022-12-21T21:37:06.527+03:00  INFO 11628 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2022-12-21T21:37:06.528+03:00  INFO 11628 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
-2022-12-21T21:37:06.775+03:00  INFO 11628 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2022-12-21T21:37:06.775+03:00  INFO 11628 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 928 ms
-2022-12-21T21:37:07.110+03:00  INFO 11628 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 49830 (http) with context path ''
-2022-12-21T21:37:07.119+03:00  INFO 11628 --- [main] n.d.m.MoneyTransferServiceContainerTests : Started MoneyTransferServiceContainerTests in 1.339 seconds (process running for 18.689)
-2022-12-21T21:39:40.545+03:00  INFO 15008 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Starting MoneyTransferServiceApplication using Java 17.0.4 with PID 15008 (C:\IdeaProjects\MoneyTransferService\target\classes started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
-2022-12-21T21:39:40.552+03:00  INFO 15008 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : No active profile set, falling back to 1 default profile: "default"
-2022-12-21T21:39:40.669+03:00  INFO 15008 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2022-12-21T21:39:40.670+03:00  INFO 15008 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2022-12-21T21:39:42.246+03:00  INFO 15008 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5500 (http)
-2022-12-21T21:39:42.261+03:00  INFO 15008 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2022-12-21T21:39:42.261+03:00  INFO 15008 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
-2022-12-21T21:39:42.338+03:00  INFO 15008 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2022-12-21T21:39:42.339+03:00  INFO 15008 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1668 ms
-2022-12-21T21:39:42.942+03:00  INFO 15008 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2022-12-21T21:39:43.000+03:00  INFO 15008 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5500 (http) with context path ''
-2022-12-21T21:39:43.014+03:00  INFO 15008 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Started MoneyTransferServiceApplication in 3.558 seconds (process running for 5.51)
-2022-12-21T21:40:08.844+03:00  INFO 15008 --- [http-nio-5500-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2022-12-21T21:40:08.844+03:00  INFO 15008 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2022-12-21T21:40:08.846+03:00  INFO 15008 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
-2022-12-21T21:40:10.744+03:00  INFO 15008 --- [http-nio-5500-exec-4] r.n.d.m.service.AppServiceImpl           : Transaction from 1212123333333455 to 7677777777777777 amount 4950.0 RUR succeed
+2022-12-27T19:21:00.171+03:00  INFO 9200 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Starting MoneyTransferServiceApplication using Java 17.0.4 with PID 9200 (C:\IdeaProjects\MoneyTransferService\target\classes started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
+2022-12-27T19:21:00.188+03:00  INFO 9200 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-27T19:21:00.310+03:00  INFO 9200 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-27T19:21:00.310+03:00  INFO 9200 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-27T19:21:03.001+03:00  INFO 9200 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5500 (http)
+2022-12-27T19:21:03.024+03:00  INFO 9200 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-27T19:21:03.025+03:00  INFO 9200 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-27T19:21:03.163+03:00  INFO 9200 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-27T19:21:03.164+03:00  INFO 9200 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2851 ms
+2022-12-27T19:21:04.019+03:00  INFO 9200 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-27T19:21:04.085+03:00  INFO 9200 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5500 (http) with context path ''
+2022-12-27T19:21:04.103+03:00  INFO 9200 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Started MoneyTransferServiceApplication in 5.301 seconds (process running for 8.525)
+2022-12-27T19:22:25.364+03:00  INFO 9200 --- [http-nio-5500-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-27T19:22:25.365+03:00  INFO 9200 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-27T19:22:25.367+03:00  INFO 9200 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-12-27T19:22:25.728+03:00 ERROR 9200 --- [http-nio-5500-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto.setOperationId(String)" because "this.responseDto" is null] with root cause
+
+java.lang.NullPointerException: Cannot invoke "ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto.setOperationId(String)" because "this.responseDto" is null
+	at ru.netology.dmitriypetrov.moneytransferservice.service.AppServiceImpl.transfer(AppServiceImpl.java:29) ~[classes/:na]
+	at ru.netology.dmitriypetrov.moneytransferservice.controller.AppController.transfer(AppController.java:21) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1080) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1003) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:906) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:731) ~[tomcat-embed-core-10.1.1.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:880) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814) ~[tomcat-embed-core-10.1.1.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1739) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2022-12-27T19:23:03.210+03:00 ERROR 9200 --- [http-nio-5500-exec-4] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto.setOperationId(String)" because "this.responseDto" is null] with root cause
+
+java.lang.NullPointerException: Cannot invoke "ru.netology.dmitriypetrov.moneytransferservice.dto.ResponseDto.setOperationId(String)" because "this.responseDto" is null
+	at ru.netology.dmitriypetrov.moneytransferservice.service.AppServiceImpl.transfer(AppServiceImpl.java:29) ~[classes/:na]
+	at ru.netology.dmitriypetrov.moneytransferservice.controller.AppController.transfer(AppController.java:21) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1080) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:973) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1003) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:906) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:731) ~[tomcat-embed-core-10.1.1.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:880) ~[spring-webmvc-6.0.2.jar:6.0.2]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:814) ~[tomcat-embed-core-10.1.1.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.2.jar:6.0.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:400) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1739) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.1.jar:10.1.1]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2022-12-27T19:31:32.155+03:00  INFO 11496 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Starting MoneyTransferServiceApplication using Java 17.0.4 with PID 11496 (C:\IdeaProjects\MoneyTransferService\target\classes started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
+2022-12-27T19:31:32.162+03:00  INFO 11496 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-27T19:31:32.305+03:00  INFO 11496 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-27T19:31:32.306+03:00  INFO 11496 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-27T19:31:34.493+03:00  INFO 11496 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5500 (http)
+2022-12-27T19:31:34.524+03:00  INFO 11496 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-27T19:31:34.525+03:00  INFO 11496 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-27T19:31:34.650+03:00  INFO 11496 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-27T19:31:34.651+03:00  INFO 11496 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2343 ms
+2022-12-27T19:31:35.491+03:00  INFO 11496 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-27T19:31:35.570+03:00  INFO 11496 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5500 (http) with context path ''
+2022-12-27T19:31:35.589+03:00  INFO 11496 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Started MoneyTransferServiceApplication in 4.41 seconds (process running for 6.657)
+2022-12-27T19:31:39.752+03:00  INFO 11496 --- [http-nio-5500-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-27T19:31:39.754+03:00  INFO 11496 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-27T19:31:39.757+03:00  INFO 11496 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-12-27T19:32:42.139+03:00  INFO 11496 --- [http-nio-5500-exec-5] r.n.d.m.service.AppServiceImpl           : Transaction from 1111111111111111 to 2222222222222222 amount 990.0 RUB succeed
+2022-12-27T19:32:48.960+03:00  WARN 11496 --- [http-nio-5500-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [ru.netology.dmitriypetrov.moneytransferservice.exception.ErrorInputException: No such operation with this id]
+2022-12-27T19:40:38.412+03:00  INFO 16908 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Starting MoneyTransferServiceApplication using Java 17.0.4 with PID 16908 (C:\IdeaProjects\MoneyTransferService\target\classes started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
+2022-12-27T19:40:38.425+03:00  INFO 16908 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-27T19:40:38.550+03:00  INFO 16908 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-27T19:40:38.551+03:00  INFO 16908 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-27T19:40:40.905+03:00  INFO 16908 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5500 (http)
+2022-12-27T19:40:40.936+03:00  INFO 16908 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-27T19:40:40.938+03:00  INFO 16908 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-27T19:40:41.082+03:00  INFO 16908 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-27T19:40:41.084+03:00  INFO 16908 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2529 ms
+2022-12-27T19:40:41.897+03:00  INFO 16908 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-27T19:40:41.977+03:00  INFO 16908 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5500 (http) with context path ''
+2022-12-27T19:40:41.996+03:00  INFO 16908 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Started MoneyTransferServiceApplication in 4.541 seconds (process running for 6.586)
+2022-12-27T19:41:22.354+03:00  INFO 16908 --- [http-nio-5500-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-27T19:41:22.355+03:00  INFO 16908 --- [http-nio-5500-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-27T19:41:22.358+03:00  INFO 16908 --- [http-nio-5500-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-12-27T19:41:22.610+03:00  WARN 16908 --- [http-nio-5500-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: No content to map due to end-of-input]
+2022-12-27T19:42:41.533+03:00  INFO 16908 --- [http-nio-5500-exec-6] r.n.d.m.service.AppServiceImpl           : Transaction from 1111111111111111 to 2222222222222222 amount 990.0 RUB succeed
+2022-12-27T19:42:46.661+03:00  INFO 16908 --- [http-nio-5500-exec-7] r.n.d.m.service.AppServiceImpl           : Transaction from 1211111111111111 to 2222222222222222 amount 990.0 RUB succeed
+2022-12-27T19:42:52.499+03:00  WARN 16908 --- [http-nio-5500-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [ru.netology.dmitriypetrov.moneytransferservice.exception.ErrorInputException: No such operation with this id]
+2022-12-27T19:43:08.210+03:00  WARN 16908 --- [http-nio-5500-exec-10] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [ru.netology.dmitriypetrov.moneytransferservice.exception.ErrorInputException: No such operation with this id]
+2022-12-27T19:43:33.245+03:00  INFO 260 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Starting MoneyTransferServiceApplication using Java 17.0.4 with PID 260 (C:\IdeaProjects\MoneyTransferService\target\classes started by Дмитрий in C:\IdeaProjects\MoneyTransferService)
+2022-12-27T19:43:33.253+03:00  INFO 260 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-27T19:43:33.370+03:00  INFO 260 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-27T19:43:33.371+03:00  INFO 260 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-27T19:43:35.840+03:00  INFO 260 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5500 (http)
+2022-12-27T19:43:35.869+03:00  INFO 260 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-27T19:43:35.870+03:00  INFO 260 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-27T19:43:36.016+03:00  INFO 260 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-27T19:43:36.018+03:00  INFO 260 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2643 ms
+2022-12-27T19:43:36.922+03:00  INFO 260 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-27T19:43:36.999+03:00  INFO 260 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5500 (http) with context path ''
+2022-12-27T19:43:37.020+03:00  INFO 260 --- [restartedMain] r.n.d.m.MoneyTransferServiceApplication  : Started MoneyTransferServiceApplication in 4.865 seconds (process running for 6.959)
+2022-12-27T19:43:54.895+03:00  INFO 260 --- [http-nio-5500-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-27T19:43:54.897+03:00  INFO 260 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-27T19:43:54.902+03:00  INFO 260 --- [http-nio-5500-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-12-27T19:43:55.438+03:00  INFO 260 --- [http-nio-5500-exec-3] r.n.d.m.service.AppServiceImpl           : Transaction from 1111111111111111 to 3333333333333333 amount 329.67 RUR succeed

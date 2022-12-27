@@ -3,10 +3,9 @@ package ru.netology.dmitriypetrov.moneytransferservice.dto;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
 import lombok.*;
-import org.springframework.stereotype.Component;
 import ru.netology.dmitriypetrov.moneytransferservice.model.Amount;
 
-@Component
+
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
